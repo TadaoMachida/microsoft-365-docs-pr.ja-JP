@@ -22,8 +22,6 @@ ms.locfileid: "67670737"
 ---
 # <a name="microsoft-365-admin-center-katakana-glossary"></a>Microsoft 365 管理センターカタカナ用語集
 
-これは日本語固有の記事であり、お使いの言語では使用できません。 日本語の記事を表示するには、[カタカナ用語集Microsoft 365 管理センター](https://go.microsoft.com/fwlink/p/?linkid=2208404)参照してください。
-
 <!--
 These images are included for the ja-jp article only
 
@@ -41,7 +39,6 @@ These images are included for the ja-jp article only
 :::image type="content" source="../media/katanaglossary/012_domain.png" alt-text="Image used for Japanese article only":::
 :::image type="content" source="../media/katanaglossary/013_licenses.png" alt-text="Image used for Japanese article only":::
 -->
-# Microsoft 365 管理センターカタカナ用語集
 Microsoft 365 管理センターで使用されている主なカタカナ用語に解説を加えました。より詳しい内容は各項目のリンク先の文章を参照してください。 <br><br>
 ## アカウント
 ![アカウント](../media/001_account.png)
