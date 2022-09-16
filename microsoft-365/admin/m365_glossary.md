@@ -4,21 +4,22 @@ f1.keywords: NOCSH
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: tadaom
 audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Adm_O365
 ROBOTS: NOINDEX, NOFOLLOW
-description: Microsoft 365 管理センターの日本語カタカナ用語集を表示する方法について説明します。
-ms.date: 09/12/2022
-ms.openlocfilehash: fc494016beb229042835316686ecd9e3f553ac9e
-ms.sourcegitcommit: 437461fa1d38ff9bb95dd8a1c5f0b94e8111ada2
+description: Microsoft 365 管理センターの日本語カタカナ用語集
+ms.date: 09/14/2022
+ms.openlocfilehash: e10ded756867f5578d2b36d5c81c9270620acd87
+ms.sourcegitcommit: b1ed6470645455c2f1fcf467450debc622c40147
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2022
-ms.locfileid: "67670737"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "67711800"
 ---
 # <a name="microsoft-365-admin-center-katakana-glossary"></a>Microsoft 365 管理センターカタカナ用語集
 
