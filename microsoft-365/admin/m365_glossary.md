@@ -41,14 +41,14 @@ These images are included for the ja-jp article only
 -->
 Microsoft 365 管理センターで使用されている主なカタカナ用語に解説を加えました。より詳しい内容は各項目のリンク先の文章を参照してください。 <br><br>
 ## アカウント
-![アカウント](../media/001_account.png)
+![アカウント](../media/katanaglossary/001_account.png)
 
 Microsoft 365を利用するために組織・会社内の個人に割り当てられた識別名のこと。組織・会社ごとに作成され、通常各個人に個別のアカウントを割り当てる。このアカウントを使用してMicrosoft 365のサービスを使用する。
 
 [ユーザーを追加してライセンスを割り当てる](https://docs.microsoft.com/ja-jp/microsoft-365/admin/add-users/add-users?view=o365-worldwide)
 <br><br>
 ## アドオン
-![アドオン](../media/002_1_addon.png)
+![アドオン](../media/katanaglossary/002_1_addon.png)
 
 それ自体単独で提供されるものではないが、サブスクリプションで契約しているサービスへの追加機能。より高度な機能や新たな機能を提供する。
 
@@ -58,19 +58,19 @@ Microsoft 365を利用するために組織・会社内の個人に割り当て�
 電子メールなどの別名。複数の人で共有するメールの配布リストなどにつけられた名前のこと。
 <br><br>
 ## カスタムドメイン
-![カスタムドメイン](../media/003_customdomain.png)
+![カスタムドメイン](../media/katanaglossary/003_customdomain.png)
 
 独自ドメインともいう。会社や学校などの組織専用のインターネット・ドメイン。メールアドレスやウェブサイトを開設するのに組織独自の名前を使うことができる。ドメインとはインターネット上の場所を示し、メールの送信先やウェブサイトの位置を示すURLに使用される。わかりやすく覚えやすい名前を取得すると自社のブランディングに有効である。
 
 [Microsoft 365 にドメインを追加する](https://support.microsoft.com/ja-jp/office/b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 <br><br>
 ## クラウドストレージ
-![クラウドストレージ](../media/004_cloudstorage.png)
+![クラウドストレージ](../media/katanaglossary/004_cloudstorage.png)
 
 インターネット上にあるファイルを格納する場所・装置のこと。個人が複数の端末やデバイスから同じファイルを利用したり、複数の人が共同で作業したりできるメリットがある。PCやモバイル端末、社内やリモートなど異なる環境からファイルを参照・変更するのに適している。
 <br><br>
 ## グループ
-![グループ](../media/005_group_updated.png)
+![グループ](../media/katanaglossary/005_group_updated.png)
 
 Microsoft 365グループ を使用すると、共同作業するチームメイトを選定し、それらのメンバーでファイルや情報を共有し共同作業を簡単に行うことができる。
 
@@ -80,7 +80,7 @@ Microsoft 365グループ を使用すると、共同作業するチームメイ
 [グループを比較する](https://docs.microsoft.com/ja-jp/microsoft-365/admin/create-groups/compare-groups)
 <br><br>
  ## グローバル管理者
-![グローバル管理者](../media/006_globaladmin.png)
+![グローバル管理者](../media/katanaglossary/006_globaladmin.png)
 
 全体管理者、通常はすべての設定項目に対して変更・削除・新規設定などの権限を持っている。
 限定的な管理機能（例：管理機能は与えたいが新規のサービス購入などを許可したくない場合）をもった管理者を選任したい場合は、次の記事を参考にしてください。
@@ -96,7 +96,7 @@ Microsoft 365グループ を使用すると、共同作業するチームメイ
 ## コラボレーションとコミュニケーション
 複数の異なる組織や人々が共通の目的・目標に向けて協力しあうこと。Teams やSharePoint、OneDriveなどで情報やファイルなどを共有しながらTeamsで連絡を取り合い、組織や働く場所が異なる人々が共同作業を進めていくような、現代的仕事スタイルのことを意味する。
 
-![コラボレーションとコミュニケーション](../media/007_collabo-commu.png)
+![コラボレーションとコミュニケーション](../media/katanaglossary/007_collabo-commu.png)
 <br><br>
 ## サービス　（オンラインサービス）
 ネットワーク（インターネット）上で提供されるコンピューターやソフトウェアの機能のこと。自分の手元にあるPCで直接実行されるソフトウェアと区別される。
@@ -118,20 +118,20 @@ M365ではSharePointのサイトのURLを意味している。
 例：www.contoso.com や mail@contoso.com の contoso.com の部分。
 <br><br>
 ## トレーニングとガイド
-![トレーニングとガイド](../media/008_trainingguide.png)   
+![トレーニングとガイド](../media/katanaglossary/008_trainingguide.png)   
 Microsoftより提供されているMicrosoft365を使用したり管理したりするための学習用の文章や動画のこと。
 <br><br>
 ## パブリック
 Microsoft365では、組織内のすべてのユーザーが閲覧または編集できる状態のことを意味する。例：パブリック・グループ-組織内の誰もが参加できるグループ。
 <br><br>
 ## フィードバック
-![フィードバック](../media/009_feedback.png)
+![フィードバック](../media/katanaglossary/009_feedback.png)
 
 サービスの利用者からMicrosoftへ意見や要望を送ること。
 サポート契約に基づいてカスタマーサポートの対応が必要な件は、上段の“ヘルプとサポート”から、使い勝手や新機能の提案などサポートにはなじまない件はこのフィードバックを使ってご意見をお寄せください。開発チームが直接内容を見ています。より具体的なご意見・ご要望をお知らせいただけると実現の可能性が高まります。
 <br><br>
 ## プライバシー
-![プライバシー](../media/010_privacy_updated.png)
+![プライバシー](../media/katanaglossary/010_privacy_updated.png)
 
 個人情報の保護に関連しファイルや情報の公開範囲を設定する機能。ファイルや情報を組織内のすべての人に公開したり（パブリック）一部の指定した人にのみ公開（プライベート）したり、異なる公開範囲を設定できる。
 
@@ -141,19 +141,19 @@ Microsoft365では、組織内のすべてのユーザーが閲覧または編�
 組織内のある特定の人しか閲覧・変更などが行えない状態。その情報やグループの所有者または管理者がどの人に対して接続の許可を与えるかを設定することができる。例：プライベート グループ
 <br><br>
 ## 課金プロファイル
-![課金プロファイル](../media/011_billpayments.png)
+![課金プロファイル](../media/katanaglossary/011_billpayments.png)
 
 Microsoft 365の支払いに関する請求先情報などが格納されている。Microsoftから購入した製品やサービスの支払いに使用される。注：Microfost.comや管理者センターから購入した製品・サービスには課金プロファイルは使用されない。
 
 [課金プロファイルを理解する](https://docs.microsoft.com/ja-jp/microsoft-365/commerce/billing-and-payments/manage-billing-profiles)
 <br><br>
 ## ホストされたドメイン
-![ホストされたドメイン](../media/012_domain.png)
+![ホストされたドメイン](../media/katanaglossary/012_domain.png)
 
 Microsoft 365 で使用するドメインサービスのこと。ウェブサイトのURLやメールのアドレスに使用される。Microsoft 365の管理センターから購入したり、すでに独自のドメインを持っていたりする場合はそれを使用することができる。
 <br><br>
 ## ライセンス
-![ライセンス](../media/013_licenses.png)
+![ライセンス](../media/katanaglossary/013_licenses.png)
 
 組織でMicrosoft 365を購入した際、個々の従業員に割り当てられる利用権・アクセス権のこと。Microsoft 365を使用するためにはライセンスを利用者の人数分購入し各ユーザーに割り当てる必要がある。
 
