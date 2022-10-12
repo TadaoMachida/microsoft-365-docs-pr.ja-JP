@@ -44,6 +44,8 @@ These images are included for the ja-jp article only
 :::image type="content" source="../media/katanaglossary/013_licenses.png" alt-text="Image used for Japanese article only":::
 -->
 Microsoft 365 管理センターで使用されている主なカタカナ用語に解説を加えました。より詳しい内容は各項目のリンク先の文章を参照してください。 <br><br>
+> [!TIP]
+> このトピックに追加してほしい用語がありましたら、表題の下の行の右側にあるサムズアップ・アイコンをクリックしてご意見をお寄せください。
 ## アカウント
 ![アカウント](../media/katanaglossary/001_account.png)
 
